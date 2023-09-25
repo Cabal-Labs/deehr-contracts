@@ -67,4 +67,4 @@ Type in the following command in the terminal:
 
  ```
 yarn hardhat stable-diffusion --contract 'THE DEPLOYED CONTRACT ADDRESS HERE' --prompts 'Awesome Decentralized Storage'
-```
+```# v1-core
